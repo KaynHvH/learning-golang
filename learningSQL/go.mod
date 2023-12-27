@@ -1,4 +1,4 @@
-module learningNetHttp
+module learningSQL
 
 go 1.21
 
